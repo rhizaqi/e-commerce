@@ -1,0 +1,240 @@
+[
+  {
+    "name": "Sofa",
+    "slug": "sofa",
+    "description": "A comfortable sofa for your living room.",
+    "excerpt": "A cozy addition to any home's decor.",
+    "price": "$800",
+    "tags": ["living room", "comfort", "fabric"],
+    "thumbnail": "sofa-thumbnail.jpg",
+    "images": [
+      "https://images.unsplash.com/photo-1555041469-a586c61ea9bc?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    ]
+  },
+  {
+    "name": "Dining Table",
+    "slug": "dining-table",
+    "description": "A sturdy dining table for family gatherings.",
+    "excerpt": "Perfect for hosting dinners and parties.",
+    "price": "$500",
+    "tags": ["dining room", "wood", "family"],
+    "thumbnail": "dining-table-thumbnail.jpg",
+    "images": [
+      "https://cdn-images.article.com/products/SKU379/2890x1500/image122650.jpg"
+    ]
+  },
+  {
+    "name": "Bed",
+    "slug": "bed",
+    "description": "A cozy bed for a restful sleep.",
+    "excerpt": "Transform your bedroom into a sanctuary.",
+    "price": "$1000",
+    "tags": ["bedroom", "comfort", "queen size"],
+    "thumbnail": "bed-thumbnail.jpg",
+    "images": [
+      "https://joybird2.imgix.net/configurations/pid_4188/-CF339-WS03/4188-CF339-WS03-hughes-bed-essence-ash-t1-2_t.png"
+    ]
+  },
+  {
+    "name": "Desk",
+    "slug": "desk",
+    "description": "A practical desk for your home office.",
+    "excerpt": "Boost productivity with a dedicated workspace.",
+    "price": "$150",
+    "tags": ["home office", "metal", "minimalist"],
+    "thumbnail": "desk-thumbnail.jpg",
+    "images": [
+      "https://cdn11.bigcommerce.com/s-a4t1eyps9l/images/stencil/1280x1280/products/24005/51220/5026b6e6-23a9-4565-8a72-0e62945e06c7__35286.1667925608.jpg?c=2"
+    ]
+  },
+  {
+    "name": "Bookshelf",
+    "slug": "bookshelf",
+    "description": "A stylish bookshelf for organizing your books.",
+    "excerpt": "Display your favorite reads in style.",
+    "price": "$200",
+    "tags": ["storage", "walnut", "modern"],
+    "thumbnail": "bookshelf-thumbnail.jpg",
+    "images": [
+      "https://cdn11.bigcommerce.com/s-7vhg3hzp/images/stencil/original/products/3757/68875/707466969109-STO.BSU-DREAM-WAL-2__19277.1689285897.jpg?c=2"
+    ]
+  },
+  {
+    "name": "Coffee Table",
+    "slug": "coffee-table",
+    "description": "A functional coffee table for your living room.",
+    "excerpt": "Perfect for resting drinks and snacks.",
+    "price": "$250",
+    "tags": ["living room", "wood", "functional"],
+    "thumbnail": "coffee-table-thumbnail.jpg",
+    "images": [
+      "https://mysleepyhead.com/media/catalog/product/m/e/menu_coffee_table.jpg?auto=webp&format=pjpg&fit=cover"
+    ]
+  },
+  {
+    "name": "Wardrobe",
+    "slug": "wardrobe",
+    "description": "A spacious wardrobe for storing clothes.",
+    "excerpt": "Maximize storage space in your bedroom.",
+    "price": "$700",
+    "tags": ["bedroom", "storage", "dark brown"],
+    "thumbnail": "wardrobe-thumbnail.jpg",
+    "images": [
+      "https://www.bludot.com/media/catalog/product/s/h/sh1_cabnet_sk.2x_1_ipad_1.jpg?optimize=medium&fit=bounds&height=1200&width=1500&canvas=1500:1200"
+    ]
+  },
+  {
+    "name": "TV Stand",
+    "slug": "tv-stand",
+    "description": "A sleek TV stand for your entertainment center.",
+    "excerpt": "Elevate your TV watching experience.",
+    "price": "$300",
+    "tags": ["living room", "entertainment", "black"],
+    "thumbnail": "tv-stand-thumbnail.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71tXXE3B+NL._AC_UF1000,1000_QL80_.jpg"
+    ]
+  },
+  {
+    "name": "Dresser",
+    "slug": "dresser",
+    "description": "A stylish dresser for organizing clothes and accessories.",
+    "excerpt": "Add elegance to your bedroom decor.",
+    "price": "$400",
+    "tags": ["bedroom", "storage", "espresso"],
+    "thumbnail": "dresser-thumbnail.jpg",
+    "images": [
+      "https://www.bludot.com/media/catalog/product/d/a/da1_6dress_ng_frontlow_1.jpg?optimize=medium&fit=bounds&height=1200&width=1500&canvas=1500:1200"
+    ]
+  },
+  {
+    "name": "Accent Chair",
+    "slug": "accent-chair",
+    "description": "An eye-catching accent chair for your living space.",
+    "excerpt": "Make a statement with this stylish chair.",
+    "price": "$200",
+    "tags": ["living room", "blue", "fabric"],
+    "thumbnail": "accent-chair-thumbnail.jpg",
+    "images": ["https://m.media-amazon.com/images/I/51WEOUgxiTL._SL1500_.jpg"]
+  },
+  {
+    "name": "Armchair",
+    "slug": "armchair",
+    "description": "A cozy armchair for relaxation.",
+    "excerpt": "Sink into comfort after a long day.",
+    "price": "$350",
+    "tags": ["living room", "comfort", "fabric"],
+    "thumbnail": "armchair-thumbnail.jpg",
+    "images": [
+      "https://mebelisadesign.co.id/image/cache/catalog/products/Baheen-Armchair-Kursi-Sofa-Single-Minimalis-550x550.jpg"
+    ]
+  },
+  {
+    "name": "Kitchen Island",
+    "slug": "kitchen-island",
+    "description": "A versatile kitchen island for meal prep and dining.",
+    "excerpt": "Enhance your kitchen's functionality.",
+    "price": "$600",
+    "tags": ["kitchen", "wood", "functional"],
+    "thumbnail": "kitchen-island-thumbnail.jpg",
+    "images": [
+      "https://target.scene7.com/is/image/Target/GUEST_eb7e1f15-79ba-4a07-8c6d-925d5aca91d4?wid=488&hei=488&fmt=pjpeg"
+    ]
+  },
+  {
+    "name": "Rocking Chair",
+    "slug": "rocking-chair",
+    "description": "A classic rocking chair for relaxation.",
+    "excerpt": "Enjoy gentle rocking motions.",
+    "price": "$250",
+    "tags": ["living room", "classic", "wood"],
+    "thumbnail": "rocking-chair-thumbnail.jpg",
+    "images": [
+      "https://www.leekes.co.uk/media/catalog/product/cache/41de4231f41aba4009fa4e5cf5d5b0d6/1/1/1123229_3l.jpg"
+    ]
+  },
+  {
+    "name": "Bar Stool",
+    "slug": "bar-stool",
+    "description": "A sleek bar stool for your kitchen counter or bar.",
+    "excerpt": "Upgrade your seating experience.",
+    "price": "$100",
+    "tags": ["kitchen", "modern", "metal"],
+    "thumbnail": "bar-stool-thumbnail.jpg",
+    "images": [
+      "https://www.livingandhome.co.uk/cdn/shop/files/ZH0264.jpg?v=1684579236"
+    ]
+  },
+  {
+    "name": "Sideboard",
+    "slug": "sideboard",
+    "description": "A stylish sideboard for storing dishes and serving.",
+    "excerpt": "Add elegance to your dining area.",
+    "price": "$450",
+    "tags": ["dining room", "storage", "wood"],
+    "thumbnail": "sideboard-thumbnail.jpg",
+    "images": [
+      "https://uwitan.id/wp-content/uploads/2020/06/1.-Furniture-Lemari-Alana-Side-Board.jpg"
+    ]
+  },
+  {
+    "name": "Bunk Bed",
+    "slug": "bunk-bed",
+    "description": "A space-saving bunk bed for kids' rooms.",
+    "excerpt": "Maximize floor space for playtime.",
+    "price": "$800",
+    "tags": ["kids room", "space-saving", "wood"],
+    "thumbnail": "bunk-bed-thumbnail.jpg",
+    "images": [
+      "https://www.reinforcedbeds.co.uk/cdn/shop/products/HeavyDutyBunkBedPlus_0003_OakLeft.jpg?v=1619602055"
+    ]
+  },
+  {
+    "name": "Console Table",
+    "slug": "console-table",
+    "description": "A versatile console table for entryways or living rooms.",
+    "excerpt": "Create a stylish focal point in your home.",
+    "price": "$300",
+    "tags": ["entryway", "living room", "modern"],
+    "thumbnail": "console-table-thumbnail.jpg",
+    "images": [
+      "https://www.ikea.com/us/en/images/products/lack-console-table-white-stained-oak__1258133_pe926260_s5.jpg?f=s"
+    ]
+  },
+  {
+    "name": "Bean Bag Chair",
+    "slug": "bean-bag-chair",
+    "description": "A fun and comfortable bean bag chair for lounging.",
+    "excerpt": "Relax in style with this casual seating option.",
+    "price": "$50",
+    "tags": ["living room", "casual", "fabric"],
+    "thumbnail": "bean-bag-chair-thumbnail.jpg",
+    "images": [
+      "https://target.scene7.com/is/image/Target/GUEST_92b37470-b95e-400b-a38b-0d016eb0530a?wid=488&hei=488&fmt=pjpeg"
+    ]
+  },
+  {
+    "name": "Outdoor Dining Set",
+    "slug": "outdoor-dining-set",
+    "description": "A durable outdoor dining set for alfresco dining.",
+    "excerpt": "Enjoy meals in the open air with family and friends.",
+    "price": "$1200",
+    "tags": ["outdoor", "dining", "patio"],
+    "thumbnail": "outdoor-dining-set-thumbnail.jpg",
+    "images": [
+      "https://i5.walmartimages.com/asr/17e54d7f-6b8c-4eec-8574-ea38e1e2736c.7b50a0546da2cee77067eb333cd476ed.jpeg?odnHeight=768&odnWidth=768&odnBg=FFFFFF"
+    ]
+  },
+  {
+    "name": "Futon",
+    "slug": "futon",
+    "description": "A versatile futon for seating and sleeping.",
+    "excerpt": "Perfect for small spaces and overnight guests.",
+    "price": "$400",
+    "tags": ["living room", "guest room", "convertible"],
+    "thumbnail": "futon-thumbnail.jpg",
+    "images": [
+      "https://m.media-amazon.com/images/I/71E5HOXzW4L._AC_SL1500_.jpg"
+    ]
+  }
+]

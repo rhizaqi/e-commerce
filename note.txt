@@ -1,0 +1,5 @@
+next Response dari nextserver
+
+
+client
+    client > server > cloud aka db
